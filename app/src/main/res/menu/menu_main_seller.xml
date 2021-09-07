@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mnAddProduct"
+        android:icon="@drawable/ic_shopping_white"
+        android:title="@string/add_product" />
+    <item android:id="@+id/mnEditProfile"
+        android:icon="@drawable/ic_edit_white"
+        android:title="@string/edit" />
+    <item android:id="@+id/mnLogout"
+        android:icon="@drawable/ic_edit_white"
+        android:title="@string/logout" />
+</menu>
